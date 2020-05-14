@@ -1,0 +1,23 @@
+h1{
+	color: blue;
+}
+*{
+border: solid;
+}
+.header{
+	color: green;
+	display: flex;
+	flex: flex-wrap;
+	justify-content: space-between;
+}
+.header1{
+	color: green;
+	display: flex;
+	justify-content: space-evenly;
+}
+.red{
+	color: green;
+	display: flex;
+	justify-content: space-around;
+
+}
